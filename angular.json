@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "johannawilliams"
+  "defaultProject": "johannawilliams",
+  "cli": {
+    "analytics": "517151c2-a3f9-466c-8be5-e809ef032c64"
+  }
 }
